@@ -1,0 +1,14 @@
+# requirements.txt
+streamlit
+motor
+pymongo
+pydantic
+email-validator
+fastapi
+uvicorn
+requests
+python-jose
+passlib
+python-multipart
+aiofiles
+asyncio
