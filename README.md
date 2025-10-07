@@ -13,18 +13,18 @@
 
 ## Overview
 
-**TalentScout1** is a comprehensive AI-driven technical interview platform designed to revolutionize the hiring process. The system automates candidate assessment through intelligent conversational interviews, leveraging local LLM capabilities via Ollama to generate contextual technical questions, evaluate responses in real-time, and provide detailed candidate scoring.
+TalentScout1 is a comprehensive AI-driven technical interview platform designed to revolutionize the hiring process. The system automates candidate assessment through intelligent conversational interviews, leveraging local LLM capabilities via Ollama to generate contextual technical questions, evaluate responses in real-time, and provide detailed candidate scoring.
 
 ###  Key Features
 
-- ** Multi-Technology Assessment**: 40+ technologies across 8 categories
-- ** AI-Powered Question Generation**: Dynamic questions using Llama3.2
-- ** Real-time Scoring**: Automated answer evaluation with detailed metrics
-- ** Conversational Interface**: Natural chat-based interview experience
-- ** Context-Aware Follow-ups**: Intelligent question progression
-- ** Admin Analytics**: Comprehensive interview statistics
-- ** Cloud Deployment**: Scalable AWS EC2 deployment
-- ** Production Ready**: Robust session management and persistence
+-  Multi-Technology Assessment: 40+ technologies across 8 categories
+-  AI-Powered Question Generation: Dynamic questions using Llama3.2
+-  Real-time Scoring: Automated answer evaluation with detailed metrics
+-  Conversational Interface Natural chat-based interview experience
+-  Context-Aware Follow-ups Intelligent question progression
+-  Admin Analytics Comprehensive interview statistics
+-  Cloud Deployment Scalable AWS EC2 deployment
+-  Production Ready Robust session management and persistence
 
 ###  Architecture
 
